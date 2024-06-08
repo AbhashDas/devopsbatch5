@@ -4,7 +4,7 @@
 **Task1:**
 - index.html is created at ~/CICDPipeline/index.html
 
-**Task2: **
+**Task2:**
 - Install NGINX
   - sudo apt-get update
   - sudo apt-get upgrade
